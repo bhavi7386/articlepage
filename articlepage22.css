@@ -1,0 +1,57 @@
+.back {
+    background-color: #225db0;
+    background-size: cover;
+    height: 120vh;
+}
+
+.container {
+    text-align: center;
+}
+
+.text {
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.para {
+    color: white;
+}
+
+.border {
+    background-color: white;
+    background-size: cover;
+    height: 100px;
+    width: 120px;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.image {
+    margin: 20px;
+    height: 50px;
+    width: 60px;
+    padding: 5px;
+}
+
+.border1 {
+    border-radius: 40px;
+}
+
+.text1 {
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+}
+
+.text2 {
+    color: white;
+    font-size: 15px;
+}
+.image1{
+	margin:50px;
+	height:500px;
+	width:500px
+	padding:50px;
+}
